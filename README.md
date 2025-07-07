@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emanuela Boros
 
 🎓 Research Scientist at EPFL  
-📍 Based in Lausanne, Switzerland  
+📍 Based in France  
 🌐 [emanuelaboros.github.io](https://emanuelaboros.github.io)
 
 ---
