@@ -14,11 +14,11 @@ I'm passionate about natural language processing, historical document analysis, 
 
 ### 🧠 Research Focus
 
-- Named Entity Recognition (NER) & Entity Linking (EL)
-- OCR post-correction & text normalization
-- Historical newspapers and ephemera
+- Named Entity Recognition (NER), Entity Linking (EL) & Event Extraction (EE)
+- Historical data and ephemera
 - Multilingual and low-resource NLP
 - Benchmarking & model evaluation
+- OCR post-correction & text normalization
 
 ---
 
