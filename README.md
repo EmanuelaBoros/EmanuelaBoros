@@ -6,13 +6,13 @@
 
 ---
 
-## 💼 What I Do
+### What I Do
 
 I'm passionate about natural language processing, historical document analysis, and building robust tools for multilingual, noisy, and low-resource data. My work lies at the intersection of machine learning and digital humanities — with a focus on **named entity recognition**, **entity linking**, and **event extraction** in complex, historical datasets.
 
 ---
 
-## 🧠 Research Focus
+### 🧠 Research Focus
 
 - Named Entity Recognition (NER) & Entity Linking (EL)
 - OCR post-correction & text normalization
@@ -22,7 +22,7 @@ I'm passionate about natural language processing, historical document analysis, 
 
 ---
 
-## Organizational Roles
+### Organizational Roles
 
 | Role | Organization |
 |------|--------------|
@@ -32,13 +32,13 @@ I'm passionate about natural language processing, historical document analysis, 
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![Emanuela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelaBoros&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelaBoros&hide=jupyter%20notebook,html,css&layout=compact&theme=radical)
 ---
 
-## 🧵 Let’s Connect
+### 🧵 Let’s Connect
 
 📫 Reach me via [emanuelaboros.github.io](https://emanuelaboros.github.io)  
 💬 I’m always open to collaboration on open-source NLP, OCR, and digital heritage projects.
