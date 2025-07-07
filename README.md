@@ -8,7 +8,7 @@
 
 ## 💼 What I Do
 
-I'm passionate about natural language processing, historical document analysis, and building robust tools for multilingual, noisy, and low-resource data. My work lies at the intersection of computational linguistics, digital humanities, and machine learning — with a focus on **named entity recognition**, **entity linking**, and **event extraction** in complex, historical datasets.
+I'm passionate about natural language processing, historical document analysis, and building robust tools for multilingual, noisy, and low-resource data. My work lies at the intersection of machine learning and digital humanities — with a focus on **named entity recognition**, **entity linking**, and **event extraction** in complex, historical datasets.
 
 ---
 
