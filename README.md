@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ema
+## 👋 Hi, I'm Ema
 
 🎓 Research Scientist at EPFL  
 📍 Based in France  
