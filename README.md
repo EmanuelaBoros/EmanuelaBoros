@@ -22,22 +22,6 @@ I'm passionate about natural language processing, historical document analysis, 
 
 ---
 
-## 📌 Featured Projects
-
-🔹 [NewsEye/event-detection](https://github.com/NewsEye/event-detection)  
-WP 3, Task T3.3 — Event detection in historical texts  
-
-🔹 [EMBEDDIA/event-detection](https://github.com/EMBEDDIA/event-detection)  
-Event detection module (multilingual, noisy data)
-
-🔹 [EMBEDDIA/stacked-ner](https://github.com/EMBEDDIA/stacked-ner)  
-Stacked-Transformers for Named Entity Recognition
-
-🔹 [stacked-ner](https://github.com/stacked-ner)  
-Multilingual NER for challenging and historical data
-
----
-
 ## Organizational Roles
 
 | Role | Organization |
