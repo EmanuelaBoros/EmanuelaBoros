@@ -38,7 +38,7 @@ Multilingual NER for challenging and historical data
 
 ---
 
-## 👥 Organizational Roles
+## Organizational Roles
 
 | Role | Organization |
 |------|--------------|
@@ -51,8 +51,7 @@ Multilingual NER for challenging and historical data
 ## 📈 GitHub Stats
 
 ![Emanuela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelaBoros&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelaBoros&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelaBoros&hide=jupyter%20notebook,html,css&layout=compact&theme=radical)
 ---
 
 ## 🧵 Let’s Connect
