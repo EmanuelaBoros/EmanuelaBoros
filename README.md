@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emanuela Boros
+# 👋 Hi, I'm Ema
 
 🎓 Research Scientist at EPFL  
 📍 Based in France  
