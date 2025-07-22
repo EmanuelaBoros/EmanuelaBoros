@@ -18,7 +18,8 @@ I'm passionate about natural language processing, historical document analysis, 
 - Historical data and ephemera
 - Multilingual and low-resource NLP
 - Benchmarking & model evaluation
-- OCR post-correction & text normalization
+- OCR, HTR
+- post-correction & text normalization
 
 ---
 
