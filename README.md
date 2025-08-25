@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ema
 
-🎓 Research Scientist at EPFL  
+🎓 Research Scientist 
 📍 Based in France  
 🌐 [emanuelaboros.github.io](https://emanuelaboros.github.io)
 
