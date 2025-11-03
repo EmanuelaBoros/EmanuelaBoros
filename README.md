@@ -36,8 +36,8 @@ I'm passionate about natural language processing, historical document analysis, 
 ### 📈 GitHub Stats
 
 ![Emanuela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelaBoros&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelaBoros&hide=jupyter%20notebook,html,css&layout=compact&theme=radical&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmanuelaBoros&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelaBoros&hide=jupyter%20notebook,html,css&layout=compact&theme=radical&hide_border=true)
 
 ---
 
