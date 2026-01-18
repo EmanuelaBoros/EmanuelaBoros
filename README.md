@@ -29,8 +29,8 @@ I'm passionate about natural language processing, historical document analysis, 
 |------|--------------|
 | 🧑‍💼 Owner | [LRU-classrooms](https://github.com/LRU-classrooms),  [hipe-eval](https://github.com/hipe-eval) |
 | 👩‍🔬 Member & Collaborator | [NewsEye](https://github.com/NewsEye), [EMBEDDIA](https://github.com/EMBEDDIA), [swiss-ai](https://github.com/swiss-ai), [impresso](https://github.com/impresso) |
-| 🤝 Outside Collaborator | [paris-saclay-cds](https://github.com/paris-saclay-cds), [ramp-data](https://github.com/ramp-data), [ramp-kits](https://github.com/ramp-kits), [C2DH](https://github.com/C2DH), [epfLLM](https://github.com/epfLLM), [eth-easl](https://github.com/eth-easl) |
-| 🚪 Former Owner / Former Member | [dh-epfl-students](https://github.com/dh-epfl-students), [dhlab-epfl](https://github.com/dhlab-epfl) | 
+| 🤝 Outside Collaborator | [paris-saclay-cds](https://github.com/paris-saclay-cds), [ramp-data](https://github.com/ramp-data), [ramp-kits](https://github.com/ramp-kits) |
+| 🚪 Former Owner / Former Member / Collaborator | [dh-epfl-students](https://github.com/dh-epfl-students), [dhlab-epfl](https://github.com/dhlab-epfl), [C2DH](https://github.com/C2DH), [epfLLM](https://github.com/epfLLM), [eth-easl](https://github.com/eth-easl) | 
 
 ---
 
