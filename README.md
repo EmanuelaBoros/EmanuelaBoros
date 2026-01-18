@@ -8,12 +8,7 @@
 
 ### What I Do
 
-I'm passionate about natural language processing, historical document analysis, and building robust tools for multilingual, noisy, and low-resource data. My work lies at the intersection of machine learning and digital humanities — with a focus on **named entity recognition**, **entity linking**, and **event extraction** in complex, historical datasets.
-
----
-
-### 🧠 Research Focus
-
+I'm passionate about natural language processing, historical document analysis, and building robust tools for multilingual, noisy, and low-resource data. My work lies at the intersection of machine learning and digital humanities — with a focus on:
 - Named Entity Recognition (NER), Entity Linking (EL) & Event Extraction (EE)
 - Historical data and ephemera
 - Multilingual and low-resource NLP
@@ -44,5 +39,5 @@ I'm passionate about natural language processing, historical document analysis, 
 
 ### 🧵 Let’s Connect
 
-📫 Reach me via [emanuelaboros.github.io](https://emanuelaboros.github.io)  
+📫 Reach me via email. Same but on Gmail. 
 💬 I’m always open to collaboration on open-source NLP, OCR, and digital heritage projects.
