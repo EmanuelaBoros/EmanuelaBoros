@@ -38,4 +38,4 @@ I'm passionate about natural language processing, document analysis, and buildin
 ### 🧵 Let's Connect
 
 📫 Reach me via email. Same but on Gmail. 
-💬 I'm always open to collaboration on open-source NLP, OCR, and digital heritage projects.
+💬 I'm always open to collaboration on open-source NLP/DL and digital heritage projects.
