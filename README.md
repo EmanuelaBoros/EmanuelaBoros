@@ -8,11 +8,11 @@
 
 ### What I Do
 
-I'm passionate about natural language processing, historical document analysis, and building robust tools for multilingual, noisy, and low-resource data. My work lies at the intersection of machine learning and digital humanities — with a focus on:
+I'm passionate about natural language processing, document analysis, and building robust tools for multilingual, noisy, and low-resource data. My work lies at the intersection of machine learning and NLP — with a focus on:
 - Named entity recognition (NER), entity linking (EL) & event extraction (EE)
 - Noisy data
-- OCR, HTR, and model evaluation
-- post-correction (if needed)
+- OCR/HTR/ASR and model evaluation
+- post-correction (if needed -- usually it's not)
 
 ---
 
