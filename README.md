@@ -12,7 +12,7 @@ I'm passionate about natural language processing, document analysis, and buildin
 - Named entity recognition (NER), entity linking (EL) & event extraction (EE)
 - Noisy data
 - OCR/HTR/ASR and model evaluation
-- post-correction (if needed -- usually it's not)
+- post-correction (if needed)
 
 ---
 
