@@ -9,12 +9,10 @@
 ### What I Do
 
 I'm passionate about natural language processing, historical document analysis, and building robust tools for multilingual, noisy, and low-resource data. My work lies at the intersection of machine learning and digital humanities — with a focus on:
-- Named Entity Recognition (NER), Entity Linking (EL) & Event Extraction (EE)
-- Historical data and ephemera
-- Multilingual and low-resource NLP
-- Benchmarking & model evaluation
-- OCR, HTR
-- post-correction & text normalization
+- Named entity recognition (NER), entity linking (EL) & event extraction (EE)
+- Noisy data
+- OCR, HTR, and model evaluation
+- post-correction (if needed)
 
 ---
 
