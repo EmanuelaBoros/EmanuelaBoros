@@ -12,7 +12,6 @@ I'm passionate about natural language processing, document analysis, and buildin
 - Named entity recognition (NER), entity linking (EL) & event extraction (EE)
 - Noisy data
 - OCR/HTR/ASR and model evaluation
-- post-correction (if needed)
 
 ---
 
@@ -31,11 +30,3 @@ I'm passionate about natural language processing, document analysis, and buildin
 ### 📈 GitHub Stats
 
 ![Emanuela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelaBoros&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelaBoros&hide=jupyter%20notebook,html,css&layout=compact&theme=radical&hide_border=true)
-
----
-
-### 🧵 Let's Connect
-
-📫 Reach me via email. Same but on Gmail. 
-💬 I'm always open to collaboration on open-source NLP/DL and digital heritage projects.
