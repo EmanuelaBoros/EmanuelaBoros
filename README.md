@@ -15,7 +15,7 @@ document analysis, and digital humanities**.
 
 My research focuses on building and evaluating models that remain useful when
 the data is not clean, balanced, contemporary, or well-resourced. I am especially
-interested in multilingual and historical documents affected by OCR, HTR, ASR,
+interested in multilingual and historical documents affected by noise,
 domain shift, temporal variation, and incomplete supervision. My research is guided by three connected questions:
 
 > **How can NLP and language models accurately extract and reason over
