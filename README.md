@@ -11,7 +11,9 @@
 I'm passionate about natural language processing, document analysis, and building robust tools for multilingual, noisy, and low-resource data. My work lies at the intersection of machine learning and NLP — with a focus on:
 - Named entity recognition (NER), entity linking (EL) & event extraction (EE)
 - Noisy data
-- OCR/HTR/ASR and model evaluation
+- OCR/HTR/ASR
+- Model evaluation
+- Dataset building
 
 ---
 
