@@ -11,7 +11,7 @@
 ### About Me
 
 I work at the intersection of **natural language processing, machine learning,
-document analysis, and digital humanities**.
+and document analysis**.
 
 My research focuses on building and evaluating models that remain useful when
 the data is not clean, balanced, contemporary, or well-resourced. I am especially
