@@ -95,14 +95,3 @@ variation, domain shift, multilinguality, and limited supervision**.
 - datasets, annotation resources, and synthetic-data pipelines.
 
 ---
-
----
-
-### Organizational Roles
-
-| Role | Organization |
-|------|--------------|
-| 🧑‍💼 Owner | [LRU-classrooms](https://github.com/LRU-classrooms) |
-| 👩‍🔬 Member & Collaborator | [NewsEye](https://github.com/NewsEye), [EMBEDDIA](https://github.com/EMBEDDIA), [swiss-ai](https://github.com/swiss-ai) |
-| 🤝 Outside Collaborator | [paris-saclay-cds](https://github.com/paris-saclay-cds), [ramp-data](https://github.com/ramp-data), [ramp-kits](https://github.com/ramp-kits) |
-| 🧩 Previous Collaborations | [hipe-eval](https://github.com/hipe-eval), [dhlab-epfl](https://github.com/dhlab-epfl), [C2DH](https://github.com/C2DH), [epfLLM](https://github.com/epfLLM), [eth-easl](https://github.com/eth-easl), [impresso](https://github.com/impresso) |
