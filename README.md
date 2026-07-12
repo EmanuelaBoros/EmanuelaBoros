@@ -93,5 +93,3 @@ variation, domain shift, multilinguality, and limited supervision**.
 - GPU-based training and large-scale experimentation workflows;
 - LLM and OCR/HTR post-correction experiments;
 - datasets, annotation resources, and synthetic-data pipelines.
-
----
