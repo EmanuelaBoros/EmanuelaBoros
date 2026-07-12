@@ -87,12 +87,12 @@ variation, domain shift, multilinguality, and limited supervision**.
 ### What I Build
 
 - multilingual information-extraction systems;
-- datasets, annotation resources, and synthetic-data pipelines;
-- LLM and OCR/HTR post-correction experiments;
-- evaluation frameworks, benchmarks, and task-aware metrics;
 - historical language-model adaptation methods;
 - reproducible notebooks, teaching resources, and open research tools;
-- GPU-based training and large-scale experimentation workflows.
+- evaluation frameworks, benchmarks, and task-aware metrics;
+- GPU-based training and large-scale experimentation workflows;
+- LLM and OCR/HTR post-correction experiments;
+- datasets, annotation resources, and synthetic-data pipelines.
 
 ---
 
