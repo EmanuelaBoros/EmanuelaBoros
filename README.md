@@ -43,22 +43,22 @@ information extraction.
 <p align="left">
   <img src="https://img.shields.io/badge/LLM%20EVALUATION-F9D95C?style=for-the-badge" alt="LLM Evaluation">
   <img src="https://img.shields.io/badge/MODEL%20CALIBRATION-F4A9C1?style=for-the-badge" alt="Model Calibration">
-  <img src="https://img.shields.io/badge/TASK--AWARE%20METRICS-63CEB0?style=for-the-badge" alt="Task-Aware Metrics">
+  <img src="https://img.shields.io/badge/TASK--AWARE%20METRICS-F9D95C?style=for-the-badge" alt="Task-Aware Metrics">
   <img src="https://img.shields.io/badge/BENCHMARK%20DESIGN-F9D95C?style=for-the-badge" alt="Benchmark Design">
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/OCR%20%2F%20HTR%20%2F%20ASR-F4A9C1?style=for-the-badge" alt="OCR HTR ASR">
-  <img src="https://img.shields.io/badge/MULTILINGUAL%20NLP-63CEB0?style=for-the-badge" alt="Multilingual NLP">
+  <img src="https://img.shields.io/badge/MULTILINGUAL%20NLP-F4A9C1?style=for-the-badge" alt="Multilingual NLP">
   <img src="https://img.shields.io/badge/LOW--RESOURCE%20NLP-F9D95C?style=for-the-badge" alt="Low-Resource NLP">
   <img src="https://img.shields.io/badge/HISTORICAL%20DOCUMENTS-F4A9C1?style=for-the-badge" alt="Historical Documents">
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SYNTHETIC%20DATA-63CEB0?style=for-the-badge" alt="Synthetic Data">
+  <img src="https://img.shields.io/badge/SYNTHETIC%20DATA-F4A9C1?style=for-the-badge" alt="Synthetic Data">
   <img src="https://img.shields.io/badge/DATASET%20BUILDING-F9D95C?style=for-the-badge" alt="Dataset Building">
   <img src="https://img.shields.io/badge/DOMAIN%20SHIFT-F4A9C1?style=for-the-badge" alt="Domain Shift">
-  <img src="https://img.shields.io/badge/INTERPRETABILITY-63CEB0?style=for-the-badge" alt="Interpretability">
+  <img src="https://img.shields.io/badge/INTERPRETABILITY-F9D95C?style=for-the-badge" alt="Interpretability">
 </p>
 
 ---
