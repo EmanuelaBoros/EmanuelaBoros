@@ -37,7 +37,7 @@ information extraction.
   <img src="https://img.shields.io/badge/NAMED%20ENTITY%20RECOGNITION-F4A9C1?style=for-the-badge" alt="Named Entity Recognition">
   <img src="https://img.shields.io/badge/ENTITY%20LINKING-F9D95C?style=for-the-badge" alt="Entity Linking">
   <img src="https://img.shields.io/badge/EVENT%20EXTRACTION-F4A9C1?style=for-the-badge" alt="Event Extraction">
-  <img src="https://img.shields.io/badge/RELATION%20EXTRACTION-63CEB0?style=for-the-badge" alt="Relation Extraction">
+  <img src="https://img.shields.io/badge/RELATION%20EXTRACTION-F9D95C?style=for-the-badge" alt="Relation Extraction">
 </p>
 
 <p align="left">
