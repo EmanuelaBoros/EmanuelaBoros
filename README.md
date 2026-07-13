@@ -18,16 +18,14 @@ the data is not clean, balanced, contemporary, or well-resourced. I am especiall
 interested in multilingual and historical documents affected by noise,
 domain shift, temporal variation, and incomplete supervision. My research is guided by three connected questions:
 
-> **How can NLP and language models accurately extract and reason over
+> **_How can NLP and language models accurately extract and reason over
 > information when documents are noisy, multilingual, historical, or
-> low-resource?**
-
-> **How should we evaluate these systems so that metrics reflect semantic
+> low-resource?_**
+> **_How should we evaluate these systems so that metrics reflect semantic
 > usefulness, robustness, calibration, and downstream impact—not only
-> performance on clean benchmarks?**
-
-> **How can models adapt across languages, time periods, domains, and document
-> modalities while remaining grounded, interpretable, and reproducible?**
+> performance on clean benchmarks?_**
+> **_How can models adapt across languages, time periods, domains, and document
+> modalities while remaining grounded, interpretable, and reproducible?_**
 
 I explore these questions through dataset construction, controlled-noise
 experiments, task-aware evaluation, error analysis, model adaptation, and
